@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sreevigneshprof@gmail.com**
 
-- ⚡ Fun fact **Graduated my degree with a CGPA of 8.4 %**
+- ⚡ Fun fact **Graduated with a CGPA of 8.4 %**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
