@@ -12,6 +12,11 @@
 
 - ⚡ Fun fact **Graduated with a CGPA of 8.4 %**
 
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="www.linkedin.com/in/sree-vignesh-05-" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sree-vignesh-05-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sree-vignesh-05-" height="30" width="40" /></a>
