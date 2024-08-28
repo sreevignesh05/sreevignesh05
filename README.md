@@ -14,7 +14,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="www.linkedin.com/in/sree-vignesh-05-" height="30" width="40" /></a>
+<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="www.linkedin.com/in/sree-vignesh-05-" height="48" width="48" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
