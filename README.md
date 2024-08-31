@@ -5,15 +5,18 @@
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 <img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
 
+<h3 align="left">SKILLS:</h3>
+<p align="left">
+    
+- Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting.
+    
+- Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals.
 
+- Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets.
 
-- 🌱 I’m currently learning **Data Analysis**
+- Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis.
 
-- 💬 Ask me about **SQL**
-
-- 📫 How to reach me **sreevigneshprof@gmail.com**
-
-- ⚡ Fun fact **Graduated with a CGPA of 8.4 %**
+- Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python.
 
 <h3 align="left">Portfolio/LinkedIn:</h3>
 <p align="left">
