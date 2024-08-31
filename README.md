@@ -8,7 +8,7 @@
 <h3 align="left">SKILLS:</h3>
 <p align="left">
     
-- Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting.
+- Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Cq225MC8MgBu&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="25" width="25" /></a>.
     
 - Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals.
 
