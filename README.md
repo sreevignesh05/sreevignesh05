@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sree Vignesh</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-<img align="right" alt="Broken_gif" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
+<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreevignesh05&label=Profile%20views&color=0e75b6&style=flat" alt="sreevignesh05" /> </p>
 
