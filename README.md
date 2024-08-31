@@ -10,13 +10,13 @@
     
 - Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Cq225MC8MgBu&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="25" width="25" /></a>.
     
-- Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals.
+- Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=UD9nG7mgbuXZ&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
-- Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets.
+- Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=RXrON5kyN96A&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
-- Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis.
+- Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=51769&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
-- Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python.
+- Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
 <h3 align="left">Portfolio/LinkedIn:</h3>
 <p align="left">
